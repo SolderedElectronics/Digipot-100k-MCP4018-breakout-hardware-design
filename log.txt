@@ -90,3 +90,44 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED Matrix Green MAX7219 board to 8x8-LED-Matrix-Green-MAX7219-board-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Aktuatori-black/Digipot 100k MCP4018 breakout/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 9390e12] Updating open source files.
+ 1 file changed, 19 insertions(+)
+https://github.com/SolderedElectronics/Digipot-100k-MCP4018-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/7-segment display with easyC/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED Matrix Green MAX7219 board/OUTPUTS/V1.0.0: all files are present, commiting...
+8x8-LED-Matrix-Green-MAX7219-board-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED Matrix Green MAX7219 board to 8x8-LED-Matrix-Green-MAX7219-board-hardware-design
+https://github.com/SolderedElectronics/Digipot-100k-MCP4018-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/7-segment display with easyC/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED Matrix Green MAX7219 board/OUTPUTS/V1.0.0: all files are present, commiting...
+8x8-LED-Matrix-Green-MAX7219-board-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED Matrix Green MAX7219 board to 8x8-LED-Matrix-Green-MAX7219-board-hardware-design
+https://github.com/SolderedElectronics/Digipot-100k-MCP4018-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/7-segment display with easyC/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED Matrix Green MAX7219 board/OUTPUTS/V1.0.0: all files are present, commiting...
+8x8-LED-Matrix-Green-MAX7219-board-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED Matrix Green MAX7219 board to 8x8-LED-Matrix-Green-MAX7219-board-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Aktuatori-black/Digipot 100k MCP4018 breakout/.git/
